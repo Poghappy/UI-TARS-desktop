@@ -5,7 +5,7 @@
   "description": "agent-tars.com",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
-    "@mui/icons-material": "^5.15.11",
+    "@mui/icons-material": "^5.18.0",
     "@mui/material": "^5.15.11",
     "@nextui-org/button": "^2.0.26",
     "@nextui-org/react": "2.4.8",
