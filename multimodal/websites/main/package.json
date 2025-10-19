@@ -7,7 +7,7 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.15.11",
     "@mui/material": "^5.15.11",
-    "@nextui-org/button": "^2.0.26",
+    "@nextui-org/button": "^2.2.9",
     "@nextui-org/react": "2.4.8",
     "@nextui-org/theme": "2.4.5",
     "@octokit/rest": "^20.0.1",
